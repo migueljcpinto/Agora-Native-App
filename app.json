@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Aora",
-    "slug": "aora",
+    "name": "Agora",
+    "slug": "agora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "aora",
+    "scheme": "agora",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mike.agora"
     },
     "web": {
       "bundler": "metro",
